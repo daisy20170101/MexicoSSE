@@ -1,4 +1,5 @@
 %% convert depth contours of McCrory 2006.
+%% this is to rotate coordinates
 function [xr,yr]=lonlat2km_rotate(lon,lat)
 % lon0 lat0 reference center
 lon0=-126;
