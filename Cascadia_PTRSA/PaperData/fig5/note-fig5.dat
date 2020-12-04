@@ -1,0 +1,7 @@
+1) fault_slip_gamma.mat constains accumulative slip on the planar fault of Model I. There are 1024*384 grids in the data
+
+2) xpos.mat: x position (km)
+
+3) ypos.mat: y position (km)
+
+4) subsidence_gamma.txt: there are 3 columns: y (km), modeled and observed subsidence. 

@@ -1,0 +1,4 @@
+There are files for friction parameter a-b used in model 1 and model 2 (figure 2a and 2b, respectively)
+
+var_gamma.mat: structure data contains x,y and ab for each point in model 1.
+var_burgette.mat: the same as var_gamma.mat except for model 2.

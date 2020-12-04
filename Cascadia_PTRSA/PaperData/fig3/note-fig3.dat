@@ -1,0 +1,8 @@
+There are 4 files containing data for figure 3.
+
+1) maxv_time.dat contains maxvimim slip rate during a 1600-year simulation. There are two columns:log10(V_max/V_pl) and time (yr). 
+
+2) and 3) coseis_slip.mat and inter_slip.mat contains coseismic slip of every 30 sec and interseismic slip of every 5 year, respectively.
+There is only one column in each file: slip of 1024 points of each time step. There are 8226 and 321 time steps, respectively.
+
+4) y_position.dat contains the y position (km) of 1024 points.

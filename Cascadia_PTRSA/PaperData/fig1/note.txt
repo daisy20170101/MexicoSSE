@@ -1,0 +1,6 @@
+Locking_gamma.txt and Locking_burgette.txt constain fault locking models from Schmalzel et al. 2014 and Burgette et al. 2009, respectively.
+
+Each file contains 3 columns:
+1) longitude
+2) latitude
+3) locking coefficient
